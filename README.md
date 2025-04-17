@@ -29,13 +29,7 @@ This is a **console clone** of the classic Flappy Bird game with exciting new fe
 
 > Note: This game uses Windows-specific libraries (`<conio.h>` and `<windows.h>`) and may not work on non-Windows platforms without modification.
 
----
 
-## 📂 Project Structure
-
-**MAIN FILE** 1.cpp 
-**STORE HIGHSCORE** highscore.txt
----
 
 ## 🕹️ How to Play
 
@@ -80,10 +74,10 @@ Here are some important sections of the code:
 
 ### 1. Clone the Repository
 
-\`\`\`bash
-git clone https://github.com/your-username/Flappy-Bird-Deluxe.git
+\\bash
+git clone (https://github.com/GauravRathod61/flappy-bird-deluxe.git)
 cd Flappy-Bird-Deluxe
-\`\`\`
+\\
 
 ### 2. Compile the Game
 
