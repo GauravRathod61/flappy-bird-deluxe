@@ -33,12 +33,8 @@ This is a **console clone** of the classic Flappy Bird game with exciting new fe
 
 ## 📂 Project Structure
 
-\`\`\`plaintext
-├── FlappyBirdDeluxe.cpp    // Main source code
-├── highscore.txt           // Automatically created to store high score
-├── README.md               // Project documentation
-\`\`\`
-
+**MAIN FILE** 1.cpp 
+**STORE HIGHSCORE** highscore.txt
 ---
 
 ## 🕹️ How to Play
@@ -141,8 +137,8 @@ This project is **open-source** and free to use for learning and development pur
 
 If you liked the project or want to contribute together on more cool C++ games or AI-based projects, feel free to connect!
 
-- 💼 LinkedIn: [Your LinkedIn Here]
-- 🐙 GitHub: [your-username](https://github.com/your-username)
+
+- 🐙 GitHub: GauravRathod61(https://github.com/GauravRathod61)
 
 ---
 
